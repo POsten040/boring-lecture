@@ -1,4 +1,9 @@
 p.intro {
   font-style: italic;
-  font-color: teal;
+  color: teal;
+}
+
+p.flashy {
+  color: red;
+  font-size: 200%;
 }
