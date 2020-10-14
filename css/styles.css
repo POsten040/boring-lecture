@@ -14,3 +14,11 @@ p.flashy {
 .black {
   color: black
 }
+img {
+  float: right;
+}
+.sidebar {
+  width: 50%;
+  float: center;
+  background-color: salmon;
+}
